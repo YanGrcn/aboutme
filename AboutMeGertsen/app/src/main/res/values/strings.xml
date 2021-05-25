@@ -1,0 +1,28 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Yan Gertsen IA-2001</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Yan.
+\n\nI'm studying in Astana It university.
+\n\nMy hooby is playing computer games and walking outside.
+\nSurely my friends have the same hoobies.
+\n\nThat's why we are playing together and walking.
+\nSometimes i'm doing sport and learning something new from the internet.\n\n</string>
+
+</resources>
